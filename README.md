@@ -1,4 +1,5 @@
 **PPG based Noninvasive Blood Glucose Monitoring using Multi-view Attention and Cascaded BiLSTM Hierarchical Feature Fusion Approach**
+
 We developed a noninvasive BG monitoring approach on photoplethysmography (PPG) signals using multi-view attention and a cascaded BiLSTM hierarchical feature fusion approach. 
 1. Firstly, we implemented a convolutional multi-view attention block to extract the temporal features through adaptive contextual information aggregation. 
 2. Secondly, we built a cascaded BiLSTM network to efficiently extract the fine-grained features through bidirectional learning. 
